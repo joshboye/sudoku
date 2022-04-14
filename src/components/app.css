@@ -6,18 +6,6 @@ body{
     background-color: wheat;
 }
 
-::-webkit-scrollbar{
-    width: 0.25rem;
-}
-
-::-webkit-scrollbar-track{
-    background: rgb(90, 90, 90);
-}
-
-::-webkit-scrollbar-thumb{
-    background: rgb(72, 0, 139);
-}
-
 .contain{
     position: absolute;
     left: 50%;
